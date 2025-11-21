@@ -430,3 +430,4 @@ window.addEventListener('scroll', debounce(() => {
 console.log('%c👋 Hello there!', 'font-size: 20px; font-weight: bold; color: #2962ff;');
 console.log('%cLooking for a designer? Let\'s talk!', 'font-size: 14px; color: #666;');
 console.log('%c📧 marbensalexandre@gmail.com', 'font-size: 14px; color: #2962ff;');
+console.log('%cMade by Franklin Fernandez', 'font-size: 14px; color: rgba(255, 41, 41, 1);');
