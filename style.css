@@ -411,6 +411,15 @@ button {
     .hero-scroll {
         bottom: var(--spacing-sm);
     }
+
+    /* Disable hero animations on mobile for immediate content display */
+    .hero-eyebrow,
+    .hero-title-line,
+    .hero-subtitle,
+    .hero-cta,
+    .hero-scroll {
+        animation: none;
+    }
 }
 
 /* ========================
